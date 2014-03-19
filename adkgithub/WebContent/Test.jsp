@@ -9,6 +9,7 @@
 <body>
 
 <% out.println("Test"); %>
+<% out.println("Test2"); %>
 
 </body>
 </html>

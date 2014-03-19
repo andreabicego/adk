@@ -10,6 +10,7 @@
 
 <% out.println("Test"); %>
 <% out.println("Test2"); %>
+<% out.println("Test3"); %>
 
 </body>
 </html>
